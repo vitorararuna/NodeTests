@@ -1,4 +1,4 @@
-// import './bootstrap';
+import './bootstrap';
 
 import * as Youch from 'youch';
 import express from 'express';
